@@ -48,6 +48,7 @@ All of these must be checked before this PR can be merged:
 - [ ] I have commented my code, especially in difficult-to-understand places
 - [ ] I have updated public documentation, or it wasn't necessary
 - [ ] I have updated private documentation, or it wasn't necessary
+- [ ] I have documented any additional deployment steps (data updates, scripts, etc), or there are none
 - [ ] I have added tests to prove my changes work properly
 - [ ] I have verified that my code meets the specifications in the related issue
 - [ ] I have noted areas of this PR that need extra attention, if necessary
