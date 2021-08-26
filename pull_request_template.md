@@ -20,9 +20,9 @@ How should this PR be merged?
 # Checklist
 All of these must be checked before this PR can be merged:
 
-- [ ] I made the code work (Do It)
-- [ ] I made the code work correctly (Do It Right)
-- [ ] I made the code work fast (Do It Fast)
+- [ ] I made the code work (Make It Work)
+- [ ] I made the code work correctly (Make It Right)
+- [ ] I made the code work fast (Make It Fast)
 - [ ] I have verified that my code meets all specifications in the related issues
 - [ ] I have commented my code, especially in difficult-to-understand places
 - [ ] I have noted areas of this PR that need extra attention, if necessary
